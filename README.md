@@ -47,13 +47,7 @@ Cybersecurity Enthusiast learning webpentest
 
 <h3 align="center">DevCard</h3>
 
-<a href="https://app.daily.dev/cyberfascinate"><img align="center" src="https://github.com/rashideo/rashideo/blob/main/devcard.svg" width="400" alt="Rashideo Benvansh's Dev Card"/></a>
-
-<h4 align="center">Code Along Music</h4>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31esgg5vfcwyc6u55nryv76wtxbe&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
+<a href="https://app.daily.dev/rashideo"><img align="center" src="https://github.com/rashideo/rashideo/blob/main/devcard.svg" width="400" alt="Rashideo Benvansh's Dev Card"/></a>
 
 <h5>Statistical Data :-</h5>
 
