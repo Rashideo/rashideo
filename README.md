@@ -47,7 +47,7 @@ Cybersecurity Enthusiast learning webpentest
 
 <h3 align="center">DevCard</h3>
 
-<a href="https://app.daily.dev/rashideo"><img src="https://api.daily.dev/devcards/v2/pBKCuLL1oV4lR49MdY6P5.png?type=default&r=9k9" width="356" alt="Rashideo Benvansh's Dev Card"/></a>
+<a href="https://app.daily.dev/rashideo"><img src="https://api.daily.dev/devcards/v2/pBKCuLL1oV4lR49MdY6P5.png?type=wide&r=9k9" width="652" alt="Rashideo Benvansh's Dev Card"/></a>
 
 <h5>Statistical Data :-</h5>
 
